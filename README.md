@@ -83,7 +83,7 @@ Each topic is reinforced with hands-on activities that simulate real-world envir
 
 ### 1️⃣ Instructor Demo: Build a Virtual Lab
 
-**Tools**: VirtualBox / VMware  
+**Tools**: VirtualBox 
 **Objective**: Set up a sandboxed environment for experimenting with different OSes and network configs.
 
 **Tasks**:
@@ -135,4 +135,4 @@ Each topic is reinforced with hands-on activities that simulate real-world envir
 
 ## 📞 Questions?
 
-Open an issue or contact me on [LinkedIn](#) or via email.
+Open an issue or contact me on [Whatsapp](https://chat.whatsapp.com/HHApqDCpHip6ZPkzPJz2TB) or via email.
