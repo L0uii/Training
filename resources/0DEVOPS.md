@@ -1,4 +1,4 @@
-![alt text](/slides/devops.png)
+![alt text](/slides/DevOps.png)
 
 
 ---
